@@ -103,10 +103,11 @@ The scripts will automatically create a `./results/` directory if it doesn't exi
 If you use the InMind framework or the InMind-Avalon dataset in your research, please cite our paper:
 
 ```bibtex
-@article{li2025inmind,
+@inproceedings{li2025inmind,
   title={InMind: Evaluating LLMs in Capturing and Applying Individual Human Reasoning Styles},
   author={Li, Zizhen and Li, Chuanhao and Wang, Yibin and Chen, Qi and Song, Diping and Feng, Yukang and Sun, Jianwen and Ai, Jiaxin and Zhang, Fanrui and Sun, Mingzhu and others},
-  journal={arXiv preprint arXiv:2508.16072},
+  booktitle={Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing},
+  pages={5038--5076},
   year={2025}
 }
 ```
